@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: 无人机对地通信场景中3D信道地图构建
+description: 我们致力于用数字孪生辅助通信。
+site_title: '无人机对地通信场景中3D信道地图构建'
 
 # Build settings
 markdown: kramdown
@@ -9,7 +9,7 @@ exclude: [vendor/ruby]
 # Personalization
 github_username: abhn
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+email: zhaobanbdwp@zohomail.cn
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
